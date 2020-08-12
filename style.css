@@ -1,0 +1,86 @@
+.umbody {
+    background-color: rgb(68, 185, 180);
+}
+
+.imgone {
+    height: 790px !important;
+    width: 1585px;
+}
+
+#question {
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+.btn {
+    position: absolute;
+    top: 580px;
+    left: 950px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.option {
+    width: 50%;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+}
+
+.active {
+    background-color: rgb(68, 185, 180);
+    color: white;
+}
+
+.option:hover {
+    background-color: rgb(68, 185, 180) !important;
+}
+
+.umh1 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 150px;
+    left: 580px;
+    color: white;
+}
+
+.umdiv {
+    position: absolute;
+    top: 250px;
+    left: 640px;
+}
+
+.btn-danger {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    font-size: 20px !important;
+}
+
+.umh12{
+    position: absolute;
+    top: 70px ;
+    left: 670px;
+    font-weight: bold !important;
+    color: rgb(255, 255, 255);
+}
+
+#umpd1{
+    font-size: 60px;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: rgb(255, 148, 148);
+    position: absolute;
+    top: 250px !important;
+    left: 550px !important;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+}
+
+.umbody1 {
+    background-color: rgb(68, 185, 180);
+}
